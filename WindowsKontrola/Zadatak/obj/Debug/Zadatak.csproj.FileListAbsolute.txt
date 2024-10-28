@@ -1,0 +1,11 @@
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.Form1.resources
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.FormaText.resources
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Učenik\source\repos\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
